@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MapGeocodingPlaceData</string>
+    <string name="enter_placename_label">Enter Place Name <font color='#f54242'>*</font></string>
+    <string name="no_placedata_label">No Places Found !!!</string>
+    <string name="centrename_label">Centre:</string>
+    <string name="placename_label">Place Name:</string>
+    <string name="placetype_label">Place Type:</string>
+    <string name="placename_required">This field cannot be empty</string>
+    <string name="valid_placename">Please enter the valid place name</string>
+    <string name="valid_placenamecharacters">Min length should be 3 &amp; Max 30</string>
+</resources>
